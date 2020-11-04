@@ -1,11 +1,10 @@
 {
-    "editor.fontSize": 18,
-    "editor.fontFamily": "'Fira Code Medium', Consolas, 'Courier New', monospace",
-    "workbench.colorTheme": "Atom One Dark",
-    "git.confirmSync": false,
-    "[markdown]": {
-        "editor.defaultFormatter": "darkriszty.markdown-table-prettify"
-    },
-    "editor.cursorBlinking": "smooth",
-    "editor.cursorSmoothCaretAnimation": true
+  "editor.fontSize": 18,
+  "editor.fontFamily": "'Fira Code Medium', Consolas, 'Courier New', monospace",
+  "workbench.colorTheme": "Atom One Dark",
+  "git.confirmSync": false,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true
 }
