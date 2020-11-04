@@ -8,6 +8,7 @@
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
   "workbench.colorTheme": "One Dark Pro",
+  "workbench.iconTheme": "Monokai Pro Icons",
   "git.confirmSync": false,
   "git.autofetch": true,
   "telemetry.enableCrashReporter": false,
