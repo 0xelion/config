@@ -1,8 +1,9 @@
-akamud.vscode-theme-onedark                 # Atom One Dark Theme
+zhuangtongfa.material-theme                 # One Dark Pro
 esbenp.prettier-vscode                      # Prettier
 ms-azuretools.vscode-docker                 # Docker
 ms-kubernetes-tools.vscode-kubernetes-tools # Kubernetes
 ms-vscode.powershell                        # PowerShell
 bbenoist.vagrant                            # Vagrant
 redhat.vscode-yaml                          # YAML
+ms-vscode-remote.remote-ssh                 # Remote SSH
 ms-vscode-remote.remote-wsl                 # Remote WSL
