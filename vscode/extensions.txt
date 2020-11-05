@@ -10,3 +10,4 @@ vscoss.vscode-ansible 	                    # Ansible
 redhat.vscode-yaml                          # YAML
 ms-vscode-remote.remote-ssh                 # Remote SSH
 ms-vscode-remote.remote-wsl                 # Remote WSL
+icrawl.discord-vscode 	                    # Discord Presence
