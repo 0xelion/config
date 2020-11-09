@@ -2,9 +2,11 @@
 
 # VSCode
 
-cp -f "./vscode/settings.json" "~/.config/Code/User/settings.json"
+mkdir -p ~/.config/Code/User
 
-cat extensions.txt | while read extension || [[ -n $extension ]];
+cp -f ./vscode/settings.json ~/.config/Code/User/settings.json
+
+cat ./vscode/extensions.txt | while read extension || [[ -n $extension ]];
 do
   code --install-extension $extension
 done
