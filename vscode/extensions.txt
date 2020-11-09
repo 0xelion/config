@@ -3,6 +3,7 @@ monokai.theme-monokai-pro-vscode            # Monokai Pro
 jolaleye.horizon-theme-vscode 	            # Horizon Theme
 esbenp.prettier-vscode                      # Prettier
 ionutvmi.path-autocomplete                  # Path Autocomplete
+hediet.vscode-drawio                        # Draw.io Integration
 ms-azuretools.vscode-docker                 # Docker
 ms-kubernetes-tools.vscode-kubernetes-tools # Kubernetes
 ms-vscode.powershell                        # PowerShell
